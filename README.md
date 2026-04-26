@@ -1,10 +1,10 @@
-# GYATT'S GUIDE — Lexicon.exe
+# GYATT'S GUIDE
 
 A brutalist, dark-mode Gen Z/Alpha slang dictionary built with Next.js 14.
 
 ## Features
 
-- 99 slang terms with definitions, generation tags, and example usage
+- 100 slang terms with definitions, generation tags, and example usage
 - Glassmorphism card UI with smooth animated transitions
 - Auto-incrementing aura counter (+5 per card viewed) with progress bar
 - Dense meme sticker background with parallax mouse tracking
