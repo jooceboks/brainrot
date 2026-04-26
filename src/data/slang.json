@@ -1,0 +1,596 @@
+[
+  {
+    "term": "Rizz",
+    "definition": "Charisma, specifically in a romantic or flirting context.",
+    "generation": "Gen Z/Alpha",
+    "example": "\"He walked up to her and just started talking — unspoken rizz fr.\""
+  },
+  {
+    "term": "Aura",
+    "definition": "Social credit or coolness; points can be gained or lost.",
+    "generation": "Gen Z/Alpha",
+    "example": "\"Bro tripped in front of his crush. -1000 aura.\""
+  },
+  {
+    "term": "Skibidi",
+    "definition": "An all-purpose adjective (good/bad/evil) from the YouTube series.",
+    "generation": "Gen Alpha",
+    "example": "\"That fit is so skibidi it's actually terrifying.\""
+  },
+  {
+    "term": "Fanum Tax",
+    "definition": "Stealing a bite of someone's food.",
+    "generation": "Gen Alpha",
+    "example": "\"Don't sit next to him at lunch, he will take the fanum tax on your fries.\""
+  },
+  {
+    "term": "Gyatt",
+    "definition": "Exclamation used when seeing a large posterior.",
+    "generation": "Gen Z/Alpha",
+    "example": "\"She walked in and the whole room went GYATT.\""
+  },
+  {
+    "term": "Sigma",
+    "definition": "A dominant, independent 'lone wolf'.",
+    "generation": "Gen Z/Alpha",
+    "example": "\"He ate lunch alone by choice. Sigma grindset.\""
+  },
+  {
+    "term": "Delulu",
+    "definition": "Delusional (usually about a crush or life goals).",
+    "generation": "Gen Z",
+    "example": "\"She thinks he likes her back. Girl is delulu.\""
+  },
+  {
+    "term": "No Cap",
+    "definition": "Truthfully; not lying.",
+    "generation": "Gen Z",
+    "example": "\"That movie was actually fire, no cap.\""
+  },
+  {
+    "term": "Mewing",
+    "definition": "Keeping the tongue on the roof of the mouth to define the jawline.",
+    "generation": "Gen Alpha",
+    "example": "\"Why is he not talking? He's mewing bro, don't interrupt.\""
+  },
+  {
+    "term": "Mogging",
+    "definition": "Looking better or taller than someone else in a comparison.",
+    "generation": "Gen Z/Alpha",
+    "example": "\"He showed up to prom and mogged every dude there.\""
+  },
+  {
+    "term": "Bussin",
+    "definition": "Extremely tasty (usually food).",
+    "generation": "Gen Z",
+    "example": "\"This pasta is bussin, send the recipe.\""
+  },
+  {
+    "term": "Cooked",
+    "definition": "In a state of total failure or being doomed.",
+    "generation": "Gen Z/Alpha",
+    "example": "\"He forgot to study and the exam is tomorrow. He's cooked.\""
+  },
+  {
+    "term": "Crash Out",
+    "definition": "To lose your cool and act recklessly/violently.",
+    "generation": "Gen Z/Alpha",
+    "example": "\"If they cancel the concert I'm gonna crash out.\""
+  },
+  {
+    "term": "Yapping",
+    "definition": "Talking too much about nothing.",
+    "generation": "Gen Z/Alpha",
+    "example": "\"Bro has been yapping for 20 minutes about nothing.\""
+  },
+  {
+    "term": "Ohio",
+    "definition": "Used to describe something weird or cursed.",
+    "generation": "Gen Alpha",
+    "example": "\"A squirrel just stole my sandwich. Only in Ohio.\""
+  },
+  {
+    "term": "Sus",
+    "definition": "Suspicious; shorthand from Among Us.",
+    "generation": "Gen Z",
+    "example": "\"Why is he being so nice all of a sudden? That's sus.\""
+  },
+  {
+    "term": "NPC",
+    "definition": "A person who lacks original thought; a background character.",
+    "generation": "Gen Z/Alpha",
+    "example": "\"She just walks around campus smiling at nothing. Total NPC behavior.\""
+  },
+  {
+    "term": "Brainrot",
+    "definition": "Mindless, hyper-active internet content.",
+    "generation": "Gen Alpha",
+    "example": "\"He said 'skibidi sigma rizz' unironically. Terminal brainrot.\""
+  },
+  {
+    "term": "Looksmaxxing",
+    "definition": "The process of maximizing one's physical appeal.",
+    "generation": "Gen Z/Alpha",
+    "example": "\"He got a new haircut, started skincare, hit the gym — full looksmaxxing arc.\""
+  },
+  {
+    "term": "Glazing",
+    "definition": "Over-complimenting someone to a cringey degree.",
+    "generation": "Gen Z/Alpha",
+    "example": "\"Stop glazing the teacher, you're not getting extra credit.\""
+  },
+  {
+    "term": "Tung Tung",
+    "definition": "The drumming sound from the 'Tung Tung Sahur' brainrot meme.",
+    "generation": "Gen Alpha",
+    "example": "\"The beat dropped and it was giving tung tung sahur energy.\""
+  },
+  {
+    "term": "Ate",
+    "definition": "Did something perfectly or looked amazing.",
+    "generation": "Gen Z",
+    "example": "\"She did that presentation and ATE. Left no crumbs.\""
+  },
+  {
+    "term": "Beige Flag",
+    "definition": "A neutral, slightly odd trait in a partner.",
+    "generation": "Gen Z",
+    "example": "\"He organizes his apps by color. That's a beige flag.\""
+  },
+  {
+    "term": "Ick",
+    "definition": "A sudden feeling of disgust towards someone.",
+    "generation": "Gen Z",
+    "example": "\"He ran to catch the bus and now I have the ick.\""
+  },
+  {
+    "term": "Chat",
+    "definition": "Addressing your real-life friends/audience as a stream chat.",
+    "generation": "Gen Z/Alpha",
+    "example": "\"Chat, is this real? Am I dreaming rn?\""
+  },
+  {
+    "term": "Slay",
+    "definition": "Doing something exceptionally well.",
+    "generation": "Gen Z",
+    "example": "\"You got the job? SLAY.\""
+  },
+  {
+    "term": "Bet",
+    "definition": "Agreed; 'I'm down' or 'for sure'.",
+    "generation": "Gen Z",
+    "example": "\"Wanna get boba after class? Bet.\""
+  },
+  {
+    "term": "Simp",
+    "definition": "Someone who does too much for a person they like.",
+    "generation": "Gen Z",
+    "example": "\"He bought her flowers after one text. Certified simp.\""
+  },
+  {
+    "term": "Stan",
+    "definition": "An obsessed fan (stalker + fan).",
+    "generation": "Gen Z",
+    "example": "\"I stan this artist so hard, I have all their vinyl.\""
+  },
+  {
+    "term": "Tea",
+    "definition": "Gossip or interesting news.",
+    "generation": "Gen Z",
+    "example": "\"Okay wait, spill the tea. What happened at the party?\""
+  },
+  {
+    "term": "Periodt",
+    "definition": "Used for emphasis at the end of a statement.",
+    "generation": "Gen Z",
+    "example": "\"She ended that argument with one sentence. Periodt.\""
+  },
+  {
+    "term": "Gucci",
+    "definition": "Good, cool, or okay.",
+    "generation": "Gen Z",
+    "example": "\"You good? Yeah we're Gucci.\""
+  },
+  {
+    "term": "Main Character",
+    "definition": "Someone who acts like the world revolves around them.",
+    "generation": "Gen Z",
+    "example": "\"She walked in slow-mo through the rain. Main character energy.\""
+  },
+  {
+    "term": "Situationship",
+    "definition": "A romantic relationship that isn't defined.",
+    "generation": "Gen Z",
+    "example": "\"We're not dating but we're not NOT dating. It's a situationship.\""
+  },
+  {
+    "term": "Ghosted",
+    "definition": "Stopping all communication without explanation.",
+    "generation": "Gen Z",
+    "example": "\"He left me on read for 3 weeks. I got ghosted.\""
+  },
+  {
+    "term": "Fire",
+    "definition": "Something that is really good or cool.",
+    "generation": "Gen Z",
+    "example": "\"This playlist is fire, send it to me.\""
+  },
+  {
+    "term": "Lit",
+    "definition": "Exciting or excellent.",
+    "generation": "Gen Z",
+    "example": "\"The party last night was actually lit.\""
+  },
+  {
+    "term": "Lowkey",
+    "definition": "Secretly or subtly.",
+    "generation": "Gen Z",
+    "example": "\"I lowkey want to drop out and become a farmer.\""
+  },
+  {
+    "term": "Highkey",
+    "definition": "Openly or very obviously.",
+    "generation": "Gen Z",
+    "example": "\"I highkey think pineapple belongs on pizza.\""
+  },
+  {
+    "term": "Shook",
+    "definition": "Shocked or surprised.",
+    "generation": "Gen Z",
+    "example": "\"She showed up with blonde hair. I'm shook.\""
+  },
+  {
+    "term": "Vibe Check",
+    "definition": "Assessing the energy of a person or place.",
+    "generation": "Gen Z",
+    "example": "\"New kid walked in. Let me give him a vibe check.\""
+  },
+  {
+    "term": "Drip",
+    "definition": "Fashionable style or clothing.",
+    "generation": "Gen Z",
+    "example": "\"His outfit today? Nothing but drip.\""
+  },
+  {
+    "term": "Snatched",
+    "definition": "Looking very good, especially one's outfit or waist.",
+    "generation": "Gen Z",
+    "example": "\"That dress is snatched, where did you get it?\""
+  },
+  {
+    "term": "Finna",
+    "definition": "Going to; about to.",
+    "generation": "Gen Z",
+    "example": "\"I'm finna order the entire menu.\""
+  },
+  {
+    "term": "Cap",
+    "definition": "A lie.",
+    "generation": "Gen Z",
+    "example": "\"He said he ran a 4-minute mile. That's cap.\""
+  },
+  {
+    "term": "Deadass",
+    "definition": "Seriously; for real.",
+    "generation": "Gen Z",
+    "example": "\"You deadass wore that to school?\""
+  },
+  {
+    "term": "Bruh",
+    "definition": "Universal reaction to something stupid or surprising.",
+    "generation": "Gen Z/Alpha",
+    "example": "\"Bruh. He really just said that out loud.\""
+  },
+  {
+    "term": "Clout",
+    "definition": "Social influence or fame.",
+    "generation": "Gen Z",
+    "example": "\"She only posted that for clout.\""
+  },
+  {
+    "term": "Flex",
+    "definition": "To show off.",
+    "generation": "Gen Z",
+    "example": "\"He brought his new car to school just to flex.\""
+  },
+  {
+    "term": "L",
+    "definition": "A loss (opposite of W).",
+    "generation": "Gen Z/Alpha",
+    "example": "\"You fumbled that relationship. Massive L.\""
+  },
+  {
+    "term": "W",
+    "definition": "A win.",
+    "generation": "Gen Z/Alpha",
+    "example": "\"Got an A without studying? That's a W.\""
+  },
+  {
+    "term": "Rent Free",
+    "definition": "Obsessing over something/someone you can't stop thinking about.",
+    "generation": "Gen Z",
+    "example": "\"That embarrassing moment from 2019 lives in my head rent free.\""
+  },
+  {
+    "term": "Opp",
+    "definition": "Opposition or enemy.",
+    "generation": "Gen Z",
+    "example": "\"Don't invite him, he's an opp.\""
+  },
+  {
+    "term": "Sending Me",
+    "definition": "Finding something hilarious.",
+    "generation": "Gen Z",
+    "example": "\"That meme is sending me, I can't breathe.\""
+  },
+  {
+    "term": "Soft Launch",
+    "definition": "Subtly hinting at a new partner on social media.",
+    "generation": "Gen Z",
+    "example": "\"She posted a hand on her story. That's a soft launch.\""
+  },
+  {
+    "term": "Hard Launch",
+    "definition": "Directly posting a new partner on social media.",
+    "generation": "Gen Z",
+    "example": "\"Full couple pic on the feed. Hard launch confirmed.\""
+  },
+  {
+    "term": "Era",
+    "definition": "A specific phase of life (e.g., 'Flop era').",
+    "generation": "Gen Z",
+    "example": "\"I'm in my villain era, don't talk to me.\""
+  },
+  {
+    "term": "Mother",
+    "definition": "An icon; someone who is doing it better than everyone.",
+    "generation": "Gen Z",
+    "example": "\"Beyoncé at the Grammys? She is mother.\""
+  },
+  {
+    "term": "Purrr",
+    "definition": "Sound of agreement or 'slay'.",
+    "generation": "Gen Z",
+    "example": "\"She walked in with confidence. Purrr.\""
+  },
+  {
+    "term": "Goat",
+    "definition": "Greatest of all time.",
+    "generation": "Gen Z",
+    "example": "\"Messi is the GOAT, no debate.\""
+  },
+  {
+    "term": "Middle Part",
+    "definition": "The required hairstyle for Gen Z coolness.",
+    "generation": "Gen Z",
+    "example": "\"He switched to a middle part and thinks he's a new person.\""
+  },
+  {
+    "term": "Side Eye",
+    "definition": "Judging someone silently.",
+    "generation": "Gen Z",
+    "example": "\"She gave the biggest side eye when he walked in late.\""
+  },
+  {
+    "term": "Ratio",
+    "definition": "When a reply gets more likes than the original post.",
+    "generation": "Gen Z",
+    "example": "\"His take was so bad he got ratioed in 2 minutes.\""
+  },
+  {
+    "term": "Bae",
+    "definition": "Before anyone else (partner).",
+    "generation": "Gen Z",
+    "example": "\"Going to dinner with bae tonight.\""
+  },
+  {
+    "term": "Ghosting",
+    "definition": "Ignoring someone's texts/calls permanently.",
+    "generation": "Gen Z",
+    "example": "\"She stopped replying mid-convo. Classic ghosting.\""
+  },
+  {
+    "term": "Glow Up",
+    "definition": "A major positive transformation.",
+    "generation": "Gen Z",
+    "example": "\"Have you seen him since high school? Major glow up.\""
+  },
+  {
+    "term": "Hypebeast",
+    "definition": "Someone obsessed with trendy brands.",
+    "generation": "Gen Z",
+    "example": "\"He only wears Supreme and Off-White. Total hypebeast.\""
+  },
+  {
+    "term": "Karen",
+    "definition": "An entitled, demanding woman.",
+    "generation": "Gen Z",
+    "example": "\"She asked to speak to the manager over a straw. Classic Karen.\""
+  },
+  {
+    "term": "Living for",
+    "definition": "Really liking or supporting something.",
+    "generation": "Gen Z",
+    "example": "\"This outfit? I'm living for it.\""
+  },
+  {
+    "term": "Mood",
+    "definition": "Something relatable.",
+    "generation": "Gen Z",
+    "example": "\"Lying on the floor staring at the ceiling. Mood.\""
+  },
+  {
+    "term": "On Fleek",
+    "definition": "Perfectly styled (older Gen Z).",
+    "generation": "Gen Z",
+    "example": "\"Her eyebrows are on fleek today.\""
+  },
+  {
+    "term": "Pull Up",
+    "definition": "To show up at a location.",
+    "generation": "Gen Z",
+    "example": "\"We're at the park. Pull up.\""
+  },
+  {
+    "term": "Salty",
+    "definition": "Upset or bitter about something.",
+    "generation": "Gen Z",
+    "example": "\"He's still salty about losing that game last week.\""
+  },
+  {
+    "term": "Savage",
+    "definition": "Doing something bold or ruthless.",
+    "generation": "Gen Z",
+    "example": "\"She told him off in front of everyone. Savage.\""
+  },
+  {
+    "term": "Ship",
+    "definition": "Supporting a romantic relationship between two people.",
+    "generation": "Gen Z",
+    "example": "\"I ship those two so hard. They need to date.\""
+  },
+  {
+    "term": "Snack",
+    "definition": "Someone who looks attractive.",
+    "generation": "Gen Z",
+    "example": "\"Have you seen the new TA? He's a snack.\""
+  },
+  {
+    "term": "Squad",
+    "definition": "Group of friends.",
+    "generation": "Gen Z",
+    "example": "\"Rolling up with the whole squad tonight.\""
+  },
+  {
+    "term": "Throw Shade",
+    "definition": "To subtly insult someone.",
+    "generation": "Gen Z",
+    "example": "\"She complimented everyone except me. Throwing shade.\""
+  },
+  {
+    "term": "Understood the Assignment",
+    "definition": "Did something exactly right.",
+    "generation": "Gen Z",
+    "example": "\"She showed up to the theme party in full costume. Understood the assignment.\""
+  },
+  {
+    "term": "Valid",
+    "definition": "Acceptable or understandable.",
+    "generation": "Gen Z",
+    "example": "\"You skipped class to nap? Honestly, valid.\""
+  },
+  {
+    "term": "Yeet",
+    "definition": "To throw something with force; exclamation of excitement.",
+    "generation": "Gen Z",
+    "example": "\"He yeeted his phone across the room after that text.\""
+  },
+  {
+    "term": "Zesty",
+    "definition": "Someone who is acting flamboyant or fruity.",
+    "generation": "Gen Z/Alpha",
+    "example": "\"That dance move was a little zesty ngl.\""
+  },
+  {
+    "term": "Grimace Shake",
+    "definition": "Reference to a viral/cursed McDonald's trend.",
+    "generation": "Gen Alpha",
+    "example": "\"He drank the Grimace Shake and now he's been missing for 3 days.\""
+  },
+  {
+    "term": "Baby Gronk",
+    "definition": "Internet personality; reference to the 'New King of Ohio'.",
+    "generation": "Gen Alpha",
+    "example": "\"They called that kid Baby Gronk like he's an NFL prospect at age 10.\""
+  },
+  {
+    "term": "Livvy Dunne",
+    "definition": "Often mentioned in Alpha 'lore' (Rizzing up).",
+    "generation": "Gen Alpha",
+    "example": "\"She did the Livvy Dunne routine at the talent show.\""
+  },
+  {
+    "term": "Pibby",
+    "definition": "Reference to 'Learning with Pibby' glitch memes.",
+    "generation": "Gen Alpha",
+    "example": "\"That glitch effect on TikTok is giving Pibby.\""
+  },
+  {
+    "term": "Edge",
+    "definition": "To be on the brink (in slang: Edging/Edgelord).",
+    "generation": "Gen Z/Alpha",
+    "example": "\"He's been on edge for hours. Someone take his phone.\""
+  },
+  {
+    "term": "Gooning",
+    "definition": "Being 'brainrotted' or zoning out into content.",
+    "generation": "Gen Alpha",
+    "example": "\"He locked in and started gooning at the screen for 6 hours straight.\""
+  },
+  {
+    "term": "Skibidi Toilet",
+    "definition": "The core lore of Gen Alpha brainrot.",
+    "generation": "Gen Alpha",
+    "example": "\"My little brother won't stop watching Skibidi Toilet episodes.\""
+  },
+  {
+    "term": "Locked In",
+    "definition": "Totally focused and concentrated.",
+    "generation": "Gen Z/Alpha",
+    "example": "\"Exam in 2 days. I'm locked in, no distractions.\""
+  },
+  {
+    "term": "Aura Points",
+    "definition": "The 'currency' of coolness.",
+    "generation": "Gen Z/Alpha",
+    "example": "\"He held the door open. +50 aura points.\""
+  },
+  {
+    "term": "Blue Tie",
+    "definition": "A reference to a specific 'brainrot' character trope.",
+    "generation": "Gen Alpha",
+    "example": "\"Teacher showed up in a blue tie. The prophecy is real.\""
+  },
+  {
+    "term": "Negative Aura",
+    "definition": "Doing something embarrassing or cringey.",
+    "generation": "Gen Z/Alpha",
+    "example": "\"He sneezed during the moment of silence. Negative aura detected.\""
+  },
+  {
+    "term": "Mog",
+    "definition": "Short for amog (to be better than).",
+    "generation": "Gen Z/Alpha",
+    "example": "\"He walked in and mogged the entire room without trying.\""
+  },
+  {
+    "term": "Bone Smashing",
+    "definition": "The extreme (fake) version of looksmaxxing.",
+    "generation": "Gen Alpha",
+    "example": "\"He's bone smashing his jaw with a rock. Looksmaxxing gone wrong.\""
+  },
+  {
+    "term": "Jelqing",
+    "definition": "Niche health/meme practice associated with brainrot.",
+    "generation": "Gen Alpha",
+    "example": "\"Don't Google what jelqing is. Just don't.\""
+  },
+  {
+    "term": "Sticking out your gyatt for the rizzler",
+    "definition": "The 'anthem' of Gen Alpha brainrot.",
+    "generation": "Gen Alpha",
+    "example": "\"She was sticking out her gyatt for the rizzler. TikTok has ruined us.\""
+  },
+  {
+    "term": "Goon Cave",
+    "definition": "A room dedicated to mindless content consumption.",
+    "generation": "Gen Alpha",
+    "example": "\"His room setup with 3 monitors is basically a goon cave.\""
+  },
+  {
+    "term": "Winter Arc",
+    "definition": "Self-improvement phase during the cold months.",
+    "generation": "Gen Z/Alpha",
+    "example": "\"No parties till March. I'm in my winter arc.\""
+  }
+]

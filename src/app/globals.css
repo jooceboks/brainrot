@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #121212;
+  color: #ededed;
+  font-family: var(--font-geist-mono), ui-monospace, monospace;
+  overflow-x: hidden;
+}
+
+::selection {
+  background: rgba(99, 102, 241, 0.3);
+  color: white;
+}
+
+::-webkit-scrollbar {
+  width: 0;
+  display: none;
+}
